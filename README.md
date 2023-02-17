@@ -2,11 +2,11 @@
  
 This repository contains an R script that pulls in and visualizes the [dataset compiled and maintained](https://www.washingtonpost.com/education/interactive/school-shootings-database) by the Washington Post documenting school shootings in the United States.  
 
-<img src="total_by_year.png" width="80%">
+<img src="total_by_year.png" width="65%">
 
 <br> 
 
-<img src="by_year.png" width="80%">
+<img src="by_year.png" width="65%">
 
 <br>
 
