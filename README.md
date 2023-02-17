@@ -6,7 +6,7 @@ This repository contains an R script that pulls in and visualizes the [dataset c
 
 <br> 
 
-<img src="by_year.png" width="65%">
+<img src="by_year.png" width="80%">
 
 <br>
 
