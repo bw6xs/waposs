@@ -6,7 +6,11 @@ This repository contains an R script that pulls in and visualizes the [dataset c
 
 <br> 
 
-It asks questions like _"How often does this happen in private school settings?"_ and _"Where are these incidents occurring?"_ as depicted in the animation below. 
+<img src="by_year.png" width="80%">
+
+<br>
+
+It asks questions like _"How often does this happen in private school settings?"_ (see above) and _"Where are these incidents occurring?"_ as depicted in the animation below. 
 
 <img src="animated_slower.gif" width="80%">
 
