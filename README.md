@@ -21,6 +21,3 @@ Of the 366 incidents in the current version of the dataset, 112 (31%) are missin
 
 ----
 
-<iframe src="https://bw6xs.github.io/cville/sales_since_2017_less_than_2M.html" width="100%" height="400" frameborder="0" scrolling="no" allowfullscreen data-external="1"></></iframe>
-
-----
